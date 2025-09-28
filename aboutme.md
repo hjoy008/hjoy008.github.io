@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: I teach sand to think
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jiahui Han, but you can call me Joy! (she/her)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a junior studying Computer Science at the University of Michigan with a minor in English. I'm super passionate about technology and problem-solving! I am a solid programmer with knowledge of data structures and algorithms, my strongest language being C++, and I love studying tech-related fields in my free time, anything from cybersecurity to game development. 
 
-What else do you need?
+When I'm not coding, you can find me playing cello, reading novels, or staring at birds. I'm always down to chat, so feel free to reach out! :)
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” ― Edsger W. Dijkstra*
