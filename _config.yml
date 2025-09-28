@@ -136,16 +136,16 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#floralwhite"
+page-col: "floralwhite"
 text-col: "#404040"
 link-col: "lightgreen"
 hover-col: "palegreen"
-navbar-col: "#forestgreen"
+navbar-col: "forestgreen"
 navbar-text-col: "floralwhite"
-navbar-border-col: "forestgreen"
-footer-col: "#forestgreen"
-footer-text-col: "#floralwhite"
-footer-link-col: "#lightgreen"
+navbar-border-col: "#404040"
+footer-col: "forestgreen"
+footer-text-col: "floralwhite"
+footer-link-col: "lightgreen"
 footer-hover-col: "lightgreen"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
